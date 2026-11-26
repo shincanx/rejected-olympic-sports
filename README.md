@@ -1,8 +1,8 @@
 # Rejected Olympic Sports
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
+[![make.fun · u-motasimfuad-rejected-olympic-sports-9d83e7da](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![rank](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/shincanx/rejected-olympic-sports/rank.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![reward](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/shincanx/rejected-olympic-sports/reward.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
 
 One funny single-line sport the Olympics rejected — entry for the
 [Rejected Olympic Sports](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da)
